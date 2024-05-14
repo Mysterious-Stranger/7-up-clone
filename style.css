@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #27ac12; 
+  }
+.logo img{
+    height: 100px;
+    width: 150px;
+}
+
+
+
+nav {
+    color: black;
+    font-style: italic;
+    font-size: 40px;
+    background-color: #5ada65;
+    position: absolute;
+    top: 0;
+    left: 300;
+    padding-left: 20px;
+    padding-right: 100px;
+    display: flex;
+
+}
+
+.navbar{
+    color: #27ac12;
+}
+
+.container{
+    border: 3px solid rgb(253, 253, 253);
+    margin: 5px;
+    padding: 10px;
+    display: flex;
+}
+
+.box{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    margin: 4px;
+    font-size: 30px;
+    font-weight: 900;
+    background-color: yellow;
+}
+.box img{
+    width: 100%;
+    height: 100%;
+}
+
+
+#box2{
+    width: 70%;
+    height: 40%;
+    
+
+}
+#box3{
+    width: 55%;
+    height: 200%;
+    background-color: yellow;
+    font-size: 40;
+    text-align: center;
+
+}
+
+.hero video{
+    
+    height: 100%;
+    width: 100%;
+
+    object-fit: cover;
+}
+.simple7up{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    margin: 4px;
+    font-size: 30px;
+    font-weight: 900;
+    background-color: yellow;
+
+}
+.cocktails{
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+    margin: 4px;
+    font-size: 30px;
+    font-weight: 900;
+    background-color: yellow;
+    font-style: oblique;
+
+}
+.cocktails img{
+    width: 80%;
+    height: 100%;
+}
+
+.cooking{    
+    width: 80%;
+    height: 80%;
+    padding-bottom: 15%;
+    margin: 4px;
+    font-size: 20px;
+    font-weight: 900;
+    background-color: yellow;
+    text-align: center;
+    font-style: oblique;
+
+}
+
+.cooking img{
+    width: 80%;
+    height: 80%;
+}
+
+.container2{
+    border: 3px solid rgb(253, 253, 253);
+    margin: 5px;
+    padding: 10px;
+    display: flex;
+}
+.original{
+    width: 80%;
+    height: 80%;
+    padding-bottom: 8%;
+    margin: 4px;
+    font-size: 20px;
+    font-weight: 900;
+    background-color: rgb(226, 222, 222);
+    text-align: center;
+    font-style: oblique;
+
+}
+
+.container3 img{
+        
+    height: 100%;
+    width: 100%;
+
+    object-fit: cover;
+}
+
+.about{
+    text-align: center;
+    color: white;
+    font-size: large;
+}
